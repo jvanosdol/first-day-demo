@@ -1,2 +1,2 @@
 # first-day-demo
-my fancier description
+my description
